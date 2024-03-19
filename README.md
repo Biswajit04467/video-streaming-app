@@ -19,9 +19,18 @@
 - Bugfix: if login redirect to browse else vice-versa
 - Unsubscribed onAuthStateChanged call Back
 - added hard coded values to constant file
-- Register on TMDB & create and app -> get access toke
+- Register on TMDB & create and app -> get access token
 - get data from tmdb now playing movie list
+- custom hook for now playing movies
 - Create movieSlice for storing the data
+- update store with movies data
+- Planning for main container & secondary container
+- Fetch data for trailer video
+- update store with trailer video data
+- Embeded the yt video and make it autoplay and mute
+- Tailwind class to give a awesome look for maincontainer
+
+- bulid the secondary component
 
 
 # Browse -page contents

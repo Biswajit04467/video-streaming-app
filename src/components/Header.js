@@ -9,7 +9,7 @@ import { addUser, removeUser } from '../Redux/userSlice';
 const Header = () => {
     const navigate = useNavigate();
     const dispatch = useDispatch();
-    const user = useSelector((store) => store.user)
+    const user = useSelector(store => store.user)
     const handleSignOut = () => {
 
         signOut(auth).then(() => {

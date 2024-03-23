@@ -10,7 +10,7 @@ const MovieList = ({ title, movies }) => {
   return (
     <div className=" text-white">
       <div>
-        <h1 className=" text-3xl font-bold p-3 ml-">{title}</h1>
+        <h1 className=" text-3xl font-bold p-3 ml-3">{title}</h1>
         <div>
           <div className='flex flex-wrap gap-4 justify-center'>
 

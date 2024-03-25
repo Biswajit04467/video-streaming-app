@@ -11,4 +11,4 @@ export const API_OPTION = {
     }
 };
 
-export const IMG_CDN="https://image.tmdb.org/t/p/w780/" ;
+export const IMG_CDN = "https://image.tmdb.org/t/p/w780/";
